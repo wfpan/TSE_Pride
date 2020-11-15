@@ -1,7 +1,7 @@
 # Pride_SCIS2020
 This is the replication package for our work submitted to Science China: Information Sciences, i.e., Weifeng Pan, Hua Ming, Carl K. Chang, Zijiang Yang, Bing Li. PRIDE: Prioritizing documentation effort based on an improved PageRank algorithm and simple filtering rules. Science China: Information Sciences, 2020, submitted. [[PDF](#)]
 
-Note that we only provide our tool used to compute ClassRank PageRank values, and some sample WDCCN. The whole data set will be available after our paper's acceptance.
+Note that we only provide our tool used to compute ClassRank PageRank values, and some sample WDCCNs. The whole data set will be available after our paper's acceptance.
 
 # WDCCN
 This directory contains the WDCCN that we built for all the subject systems used in our experiments. There are three versions of WDCCN according to the different weighting mechanism. Note that the whole data set will be available after our work's acceptance. Of course, interested readers can email us (Email: wfpan@zjgsu.edu.cn) to get the whole data set in advance. Please use your institutional email address.
