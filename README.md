@@ -18,7 +18,7 @@ The steps to use Pride.jar is shown as follows. To run the software, you should 
 - Select Analysis->ClassRank
 - Then you will get the ClassRank PageRank value for each class. You can also find a file storing the obtained results in the corresponding directory.
 
-## Cite our work
+# Cite our work
 If you use our data set or tool, please cite our work.
 
 Weifeng Pan, Hua Ming, Carl K. Chang, Zijiang Yang, Bing Li. PRIDE: Prioritizing documentation effort based on an improved PageRank algorithm and simple filtering rules. Science China: Information Sciences, 2020, submitted. [[PDF](#)]
