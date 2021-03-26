@@ -1,5 +1,5 @@
 # TSE_Pride
-This is the replication package for our work submitted to Science China: Information Sciences, i.e., Weifeng Pan, Hua Ming, Carl K. Chang, Zijiang Yang, Bing Li. PRIDE: Prioritizing documentation effort based on an improved PageRank algorithm and simple filtering rules. Science China: Information Sciences, 2020, submitted. [[PDF](#)]
+This is the replication package for our work submitted to Science China: Information Sciences, i.e., Weifeng Pan, Dae-Kyoo Kim, Hua Ming, Carl K. Chang, Zijiang Yang. PRIDE: Prioritizing documentation effort based on an improved PageRank algorithm and simple filtering rules. IEEE Transactions on Software Engineering, 2021, submitted. [[PDF](#)]
 
 Note that we only provide our tool used to compute ClassRank PageRank values, and some sample WDCCNs. The whole data set will be available after our paper's acceptance.
 
