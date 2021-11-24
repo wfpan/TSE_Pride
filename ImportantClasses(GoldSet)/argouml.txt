@@ -1,0 +1,12 @@
+org.argouml.cognitive.Designer
+org.argouml.cognitive.critics.Critic
+org.argouml.uml.cognitive.critics.CrUML
+org.argouml.cognitive.ToDoItem
+org.argouml.cognitive.ToDoList
+org.argouml.kernel.History
+org.argouml.cognitive.critics.ControlMech
+org.argouml.ui.ProjectBrowser
+org.argouml.kernel.Project
+org.argouml.kernel.Wizard
+org.argouml.application.api.Configuration
+org.argouml.application.api.Argo
