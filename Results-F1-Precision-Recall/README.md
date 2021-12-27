@@ -5,12 +5,12 @@ Note that, each CSV file contains 19 columns. For example, in the file of [DWM\c
 inDeg, outDeg, allDeg, inWDeg, outWDeg, allWDeg, ForwardBackPageRank-Sora, ForwardPageRank-Sora, inDeg-core, outDeg-core, g-core, g-core-Right, h-index, k-core, LiuPageRank, 
 TSEPageRank, and TSEPageRank_v15. The first column (i.e., ant_main(10)) shows the name of the software (i.e., ant) and the number of key classes in the software (i.e., 10). The 
 rest 18 columns actually correspond to 18 approaches. Eight approaches are used in this work, while other approaches are only devised by us, but not used in this work. It should 
-be noted that the name of the eight used approach in the CSV file is different from that used in our work. The following Table shows the mapping of the name used in CSV file and 
+be noted that the name of the eight used approaches in the CSV file is different from that used in our work. The following Table shows the mapping of the name used in CSV file and 
 the name used in our work.
 
-a-index | h-index | k-core | ForwardPageRank-Sora | ForwardBackPageRank-Sora | g-core | ElementRank | LiuPageRank | TSEPageRank_v15
----- | --- | --- | --- | --- | --- | --- | --- | ---
-a-index | h-index | k-core | PageRank | PageRank_BR | ICOOK | ElementRank | PageRank_IVOL | Pride
+Names in the CSV | a-index | h-index | k-core | ForwardPageRank-Sora | ForwardBackPageRank-Sora | g-core | ElementRank | LiuPageRank | TSEPageRank_v15
+---- | ---- | --- | --- | --- | --- | --- | --- | --- | ---
+Names in this work | a-index | h-index | k-core | PageRank | PageRank_BR | ICOOK | ElementRank | PageRank_IVOL | Pride
 
 # DWM
 This directory contains the results obtained on the subject systems using DWM weighting mechanism.
