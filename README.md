@@ -1,5 +1,5 @@
 # TSE_Pride
-This is the replication package for our work submitted to IEEE Transactions on Software Engineering, i.e., Weifeng Pan, Hua Ming, Dae-Kyoo Kim, Zijiang Yang. PRIDE: Prioritizing documentation effort based on an improved PageRank algorithm and simple filtering rules. IEEE Transactions on Software Engineering, 2021, submitted. [[PDF](#)]
+This is the replication package for our work accepted by IEEE Transactions on Software Engineering, i.e., Weifeng Pan, Hua Ming, Dae-Kyoo Kim, Zijiang Yang. PRIDE: Prioritizing documentation effort based on an improved PageRank algorithm and simple filtering rules. IEEE Transactions on Software Engineering, 2022, DOI: 10.1109/TSE.2022.3171469. [[PDF](#)]
 
 Note that we only provide our tool used to compute ClassRank PageRank values, and some sample WDCCNs. The whole data set will be available after our paper's acceptance.
 
@@ -21,4 +21,4 @@ The steps to use Pride.jar is shown as follows. To run the software, you should 
 # Cite our work
 If you use our data set or tool, please cite our work.
 
-Weifeng Pan, Hua Ming, Dae-Kyoo Kim, Zijiang Yang. PRIDE: Prioritizing documentation effort based on an improved PageRank algorithm and simple filtering rules. IEEE Transactions on Software Engineering, 2021, submitted. [[PDF](#)]
+Weifeng Pan, Hua Ming, Dae-Kyoo Kim, Zijiang Yang. PRIDE: Prioritizing documentation effort based on an improved PageRank algorithm and simple filtering rules. IEEE Transactions on Software Engineering, 2022, DOI: 10.1109/TSE.2022.3171469. [[PDF](#)]
