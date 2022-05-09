@@ -1,6 +1,0 @@
-When performing the experiments, we have noticed a problem in [1]. We found that their #C and #IC are less than ours. It is mainly because they fail to collect many classes and couplings. Worse still, they may also fail to capture some true key classes. Our software networks are built by our own-developed SNAP tool. It can collect more classes and couplings than theirs, and it can also capture the coupling frequencies between classes.
-
-Note that there are two systems where our #IC values are different from that of [1], i.e., Apache Ant and jMeter. In fact, the two systems are first used by [2], and later by other related work (cf. the Related Work section in our revised manuscript) on key class identification. Thus, for the two systems, we actually used key classes listed in Tables IV and V of [2].
-
-[1] S. Liu, Z. Guo, Y. Li, H. Lu, L. Chen, L. Xu, Y. Zhou, and B. Xu. Prioritizing code documentation effort: Can we do it simpler but better? Inf. Softw. Technol. 140: 106686 (2021)
-[2] A. Zaidman, S. Demeyer. Automatic identification of key classes in a software system using webmining techniques. J. Softw. Maintenance Res. Pract. 20(6): 387-417 (2008)
