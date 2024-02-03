@@ -8,7 +8,7 @@ rest 18 columns actually correspond to 18 approaches. Eight approaches are used 
 be noted that the name of the eight used approaches in the CSV file is different from that used in our work. The following Table shows the mapping of the name used in CSV file and 
 the name used in our work.
 
-Names in the CSV | a-index | h-index | k-core | ForwardPageRank-Sora | ForwardBackPageRank-Sora | g-core | ElementRank | LiuPageRank | TSEPageRank_v15
+Names in the CSV | a-index | h-index | k-core | ForwardPageRank-Sora | ForwardBackPageRank-Sora | g-core | TSEPageRank | LiuPageRank | TSEPageRank_v15
 ---- | ---- | --- | --- | --- | --- | --- | --- | --- | ---
 Names in this work | a-index | h-index | k-core | PageRank | PageRank_BR | ICOOK | ElementRank | PageRank_IVOL | Pride
 
